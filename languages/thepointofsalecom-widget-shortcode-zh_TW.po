@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Lepointdevente.com\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: Chinese (Taiwan)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-01-28 14:21-0500\n"
+"PO-Revision-Date: 2021-11-25 20:29+0000\n"
+"Language: zh_TW\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: thepointofsalecom-widget-shortcode.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#. Author of the plugin
+msgid "cognitif"
+msgstr "cognitif"
+
+#: thepointofsalecom-widget-shortcode.php:129
+msgid "Dark"
+msgstr "黑色"
+
+#: thepointofsalecom-widget-shortcode.php:143
+msgid "English"
+msgstr "英文"
+
+#: thepointofsalecom-widget-shortcode.php:142
+msgid "French"
+msgstr "法文"
+
+#: thepointofsalecom-widget-shortcode.php:105
+msgid "General Settings"
+msgstr "一般設定"
+
+#: templates/admin.php:3
+msgid "Gutenberg shopping cart"
+msgstr "Gutenberg 購物車"
+
+#. Author URI of the plugin
+msgid "https://cognitif.ca/"
+msgstr "https://cognitif.ca/"
+
+#. URI of the plugin
+msgid "https://thepointofsale.com/"
+msgstr ""
+
+#: thepointofsalecom-widget-shortcode.php:145
+msgid "Indonesian"
+msgstr "印度尼西亞語"
+
+#: thepointofsalecom-widget-shortcode.php:137
+msgid "Language"
+msgstr "語言"
+
+#: thepointofsalecom-widget-shortcode.php:141
+msgid "Language of the page"
+msgstr "頁面的語言"
+
+#. Name of the plugin
+msgid "Lepointdevente.com"
+msgstr "Lepointdevente.com"
+
+#: thepointofsalecom-widget-shortcode.php:128
+msgid "Light"
+msgstr "燈光"
+
+#: thepointofsalecom-widget-shortcode.php:153
+msgid "Main color"
+msgstr "主要顏色"
+
+#: thepointofsalecom-widget-shortcode.php:113
+msgid "Organizer ID"
+msgstr ""
+
+#: thepointofsalecom-widget-shortcode.php:95
+msgid "Settings"
+msgstr "設定"
+
+#: thepointofsalecom-widget-shortcode.php:124
+msgid "Theme"
+msgstr "主題"
+
+#: thepointofsalecom-widget-shortcode.php:89 templates/admin.php:3
+msgid "Thepointofsale.com"
+msgstr "Thepointofsale.com"
+
+#. Description of the plugin
+msgid ""
+"Thepointofsale.com allows you to add shopping carts and purchase windows in "
+"your articles and WordPress pages via Gutenberg blocks by activating the "
+"extension (https://thepointofsale.com)"
+msgstr ""
+"Thepointofsale.com允許您通過開動擴展程序，通過Gutenberg塊在文章和WordPress頁面中添加購物車併購買視窗(https:"
+"//thepointofsale.com)"
+
+#: thepointofsalecom-widget-shortcode.php:164
+msgid "Ticket Agency"
+msgstr "售票"
+
+#: thepointofsalecom-widget-shortcode.php:144
+msgid "Traditional Chinese"
+msgstr "繁體中文"
